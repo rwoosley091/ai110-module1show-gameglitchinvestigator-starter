@@ -25,13 +25,14 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [ ] A game where the user has to guess the scret number in a limited number of attempts 
+- [ ] Some of the bugs ound include the incorrect hint, difficulty, wrong number of attempts. 
+- [ ] I only fixed the hints where I changed the test for each situation and widened the gap of number that could be chosen from for hard difficulty. 
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- ![Screenshot of winning game](demo.png)
+
 
 ## 🚀 Stretch Features
 
